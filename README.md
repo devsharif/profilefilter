@@ -18,6 +18,6 @@
 
 <h2>Screenshot</h2>
 
- <img src="https://raw.githubusercontent.com/devsharif/AngularProjectGenerator/master/Screenshot/ngApp_image_01.jpg" alt="ngApp 01">
+ <img src="https://raw.githubusercontent.com/devsharif/profilefilter/master/asset/image/imagefilter.jpg" alt="HTML Profile Filter">
 
 Thank you for support...
